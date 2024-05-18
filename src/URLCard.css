@@ -1,0 +1,9 @@
+.link-icons {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+  }
+  
+  .link-icons .link-icon {
+    margin-right: 8px;
+  }
